@@ -4,7 +4,7 @@ Hello there! 👋 I'm Oluwayimika, a passionate frontend web developer who is co
 
 ## Skills
 
-- *Languages:* HTML, CSS
+- *Languages:* HTML, CSS and Javascript
 - *Responsive Design:* CSS Grid, Flexbox
 - *Tools:* VS Code, Chrome DevTools,
 
